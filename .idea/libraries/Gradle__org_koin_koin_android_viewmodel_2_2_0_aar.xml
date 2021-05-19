@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="Gradle: org.koin:koin-android-viewmodel:2.2.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/927f19a8be7f01cb46e53acc6c42bdd0/jetified-koin-android-viewmodel-2.2.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/927f19a8be7f01cb46e53acc6c42bdd0/jetified-koin-android-viewmodel-2.2.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/927f19a8be7f01cb46e53acc6c42bdd0/jetified-koin-android-viewmodel-2.2.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f025b0d23b3bf658861d870984929d73/jetified-koin-android-viewmodel-2.2.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f025b0d23b3bf658861d870984929d73/jetified-koin-android-viewmodel-2.2.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f025b0d23b3bf658861d870984929d73/jetified-koin-android-viewmodel-2.2.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e7e0f6945c29f1363dd7b2350bde5e75/jetified-koin-android-viewmodel-2.2.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e7e0f6945c29f1363dd7b2350bde5e75/jetified-koin-android-viewmodel-2.2.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e7e0f6945c29f1363dd7b2350bde5e75/jetified-koin-android-viewmodel-2.2.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.koin/koin-android-viewmodel/2.2.0/6abb6aa92a94f3899ab163272c11b1352b3d901d/koin-android-viewmodel-2.2.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.koin/koin-android-viewmodel/2.2.0/c8d6552d772864bf08864d6416d426f9439ecc3d/koin-android-viewmodel-2.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

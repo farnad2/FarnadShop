@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">FarnadStore</string>
+    <string name="home">Home</string>
+    <string name="cart">Cart</string>
+    <string name="profile">Profile</string>
+    <string name="latest">Latest</string>
+    <string name="viewAll">View all</string>
+    <string name="comments">Comments</string>
+    <string name="insertComment">Insert Comments</string>
+    <string name="viewAllComments">View All Comments</string>
+    <string name="productList">Product List</string>
+    <string name="sort">Sort</string>
+    <string name="sortLatest">Latest</string>
+    <string name="sortPopular">Popular</string>
+    <string name="sortPriceHighToLow">Price High to Low</string>
+    <string name="sortPriceLowToHigh">Price Low to High</string>
+    <string name="addToCart">Add to Cart</string>
+    <string name="unknown_error">Unknown Error</string>
+    <string name="success_addToCart">Successfully added to cart</string>
+    <string-array name="sortTitlesArray">
+        <item>@string/sortLatest</item>
+        <item>@string/sortPopular</item>
+        <item>@string/sortPriceHighToLow</item>
+        <item>@string/sortPriceLowToHigh</item>
+    </string-array>
+
+    <string name="loginScreenTitle">Login to your account</string>
+    <string name="loginTitle">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="signUpHint">Do not have account yet?</string>
+    <string name="signUp">Sign Up</string>
+    <string name="authHint">Enter your email and password</string>
+
+    <string name="signUpScreenTitle">Create account</string>
+    <string name="loginHint">Did you register before?</string>
+    <string name="pay">Pay</string>
+    <string name="count">Count</string>
+    <string name="removeFromCart">Remove from cart</string>
+    <string name="purchaseDetail">Purchase Detail</string>
+    <string name="totalPrice">Total price</string>
+    <string name="shippingCost">Shipping Cost</string>
+    <string name="payablePrice">Payable Price</string>
+
+    <string name="cartEmptyStateLoginRequired">Enter your account</string>
+    <string name="cartEmptyStateCallToAction">Entering in your account</string>
+    <string name="cartEmptyState">There is no news here!</string>
+    <string name="shippingToolbarTitle">Address and shipment method</string>
+    <string name="onlinePayment">Online Payment</string>
+    <string name="cashOnDelivery">Pay in location</string>
+
+    <string name="firstName">Name</string>
+    <string name="lastName">Last Name</string>
+    <string name="postalCode">Postal Code</string>
+    <string name="phoneNumber">Phone Number</string>
+    <string name="address">Address</string>
+    <string name="checkoutToolbarTitle">Receipt</string>
+    <string name="returnHome">Return Home</string>
+    <string name="orderHistory">Order History</string>
+    <string name="purchaseStatus">Purchase Status</string>
+    <string name="price">Price</string>
+
+    <string name="favorites">Favorite</string>
+    <string name="signIn">Sign in</string>
+    <string name="signOut">Sign out</string>
+    <string name="guest_user">Guest User</string>
+    <string name="favorites_empty_state_message">There is no favorite item in your list</string>
+    <string name="favorites_help_message">For deleting a product, long press on the item</string>
+</resources>
